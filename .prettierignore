@@ -33,7 +33,7 @@ yarn-error.log*
 # vercel
 .vercel
 .cache
-package.json
+# package.json
 package-lock.json
 public
 node_modules
